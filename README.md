@@ -1,7 +1,7 @@
 # CursoGit
 Practicas de Git 
 
-##Ejemplo Mark Down
+## Ejemplo Mark Down
 
 ### Features
 
